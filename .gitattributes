@@ -1,0 +1,2 @@
+# Treat PDF documentation as binary content
+*.pdf binary
