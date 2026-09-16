@@ -1,0 +1,4 @@
+{
+  "name": "ENAUTO Python Lab",
+  "install": "python3 -m compileall -q lessons"
+}
